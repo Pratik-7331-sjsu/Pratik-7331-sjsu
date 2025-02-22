@@ -7,7 +7,6 @@
 
 - 📫 How to reach me: **pratikrajnikant.shah2@gmail.com**
 
-- 📄 Resume: [https://2ly.link/20Nr1](https://2ly.link/20Nr1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
