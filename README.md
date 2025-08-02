@@ -1,12 +1,3 @@
-<h1 align="center">Hi 👋, I'm Pratik Shah</h1>
-<h3 align="center">Software Engineer with 3+ years of experience building scalable web applications</h3>
-
-- 🔭 I’m currently working on [an Open Source Project-EnCiv Civil Pursuit](https://github.com/EnCiv/civil-pursuit)
-
-- 💬 Ask me about **Software Engineering, Healthcare Software Integrations, FHIR/HL7 Data Standards, Java & SpringBoot**
-
-- 📫 How to reach me: **pratikrajnikant.shah2@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
